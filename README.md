@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csatya406
+- 👋 Hi, I’m @csatya404
 - 👀 I’m interested in devops engineer,cloud architect,sys-admin type roles
 - 🌱 I’m currently learning devops,AWS,computer networks
 - 💞️ I’m looking to collaborate on code deployments
